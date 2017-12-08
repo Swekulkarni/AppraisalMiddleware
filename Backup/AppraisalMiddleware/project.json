@@ -8,16 +8,20 @@
       "type": "platform",
       "version": "1.0.0"
     },
-
-    "Amazon.Lambda.Core": "1.0.0*",
     "Amazon.Lambda.Serialization.Json": "1.1.0",
-
     "Amazon.Lambda.Tools": {
       "type": "build",
       "version": "1.8.0"
     },
     "AWSSDK.DynamoDBv2": "3.3.2.1",
-    "AWSSDK.Lambda": "3.3.2.6"
+    "AWSSDK.Lambda": "3.3.2.6",
+    "System.Net.Requests": "4.3.0",
+    //"RestSharp": "106.2.0-alpha0025",
+    "Amazon.Lambda.Core": "1.0.0",
+    "Amazon.Lambda.TestUtilities": "1.0.0",
+    "Amazon.Lambda.AspNetCoreServer": "0.10.2-preview1",
+    "Newtonsoft.Json": "8.0.3",
+    "System.IO.FileSystem": "4.3.0"
   },
 
   "tools": {

@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "AppraisalMiddleware", "AppraisalMiddleware\AppraisalMiddleware.xproj", "{512E79A7-0534-41BD-9D88-7D20C34F6A11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppraisalMiddleware", "AppraisalMiddleware\AppraisalMiddleware.csproj", "{512E79A7-0534-41BD-9D88-7D20C34F6A11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF25A91C-BB30-42F4-AFDD-1A737F3014C9}
 	EndGlobalSection
 EndGlobal
